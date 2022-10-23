@@ -1,0 +1,195 @@
+.container {
+    width: 1170px;
+    margin: 0 auto;
+   
+}
+
+.nav-li{
+    display: inline-block;
+    
+}
+.a-logo{
+    display: inline-block;
+    font-size: 13px;
+    width: 40px;
+    height: 11px;
+    color: #fa6980;
+    margin-right: 100px;
+    margin-top: 21px;
+    margin-left: 20px;
+}
+.first-div{
+    width: 1440px;
+}
+
+.buttons {
+    margin-left: 22px;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 13px;
+}
+
+li a {
+    color: gray;
+}
+
+.buttons-home {
+    color: black;
+}
+
+/* .home{
+    margin-left: 80px;
+    color: #343638;
+}
+.discovery {
+    margin-left: 26px;
+    width: 66px;
+    height: 9px;
+    color: #f6f8f9;
+}
+.photos{
+    margin-left: 21px;
+    width: 48px;
+    height: 9px;
+}
+.contact{
+    margin-left: 20px;
+    width: 54px;
+    height: 9px;
+} */
+
+.face-image-li {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.trending-text{
+    font-size: 24px;
+    color: black;
+    width: 1026px;
+    height: 20px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+}
+
+.card {
+    position: relative;
+    display: inline-block;
+    border-radius: 10px;
+}
+.first-image{
+    width: 360px;
+    height: 180px;
+
+    display: inline-block;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.h2-text{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    font-size: 16px;
+    color: white;
+    
+}
+.div-p{
+    width: 281px;
+    font-size: 13px;
+    color: #a6adb4;
+    margin-top: 75px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.image-clock{
+    display: inline-block;
+    margin-left: 40px;  
+}
+.time-p{
+    font-size: 13px;
+    color: #a6adb4;
+    display: inline-block;
+    margin-bottom: 38px;
+}
+
+.card:not(:first-child) {
+    margin-left: 40px;
+}
+.bridgeimage{
+    display: inline-block;
+}
+.forestImg{
+    display: inline-block;
+}
+.elephantImg{
+    display: inline-block;
+}
+.happeningNow-rightBlock{
+    display: inline-block;
+}
+.leftBlock-relativeImg{
+    position: relative;
+    display: inline-block;
+}
+.leftBlock-title{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    color: white;
+    font-size: 20px;
+    
+}
+.happeningNow-rightBlock{
+    display: inline-block;
+    width: 360px;
+    margin-left: 40px;
+    
+}
+.happeningNow-leftBlock{
+    display: inline-block;
+    width: 760px;
+    vertical-align: top;
+}
+.parrotImg, .roadImg{
+    margin-top: 102px;
+}
+.footer{
+    background-color: #A6ADB4;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+.footer-h2{
+    display: inline-block;
+    font-size: 13px;
+    color: white;
+    vertical-align: top;
+}
+.nav-footer{
+    display: inline-block;
+    margin-left: 80px;
+}
+.a-button{
+    line-height: 1.8;
+    font-size: 17px;
+    color:#CBD0D3;
+}
+.div-p-footer{ 
+    display: inline-block;
+    font-size: 13px;
+    vertical-align: top;
+    margin-left: 80px;
+    color: #CBD0D3;
+}
+.images-footer{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 90px;
+}
+
+.images-footer a:not(:first-child) {
+    margin-left: 32px;
+
+}
